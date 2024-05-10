@@ -1,0 +1,13 @@
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\bin\Debug\IMAX Theatre.exe.config
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\bin\Debug\IMAX Theatre.exe
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\bin\Debug\IMAX Theatre.pdb
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\bin\Debug\IMAX Theatre.xml
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX_Theatre.Resources.resources
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX_Theatre.SplashScreen1.resources
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.exe
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.xml
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.pdb
+E:\VisualBasic\Chapter 7\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX_Theatre.frmIMAXTheatre.resources
