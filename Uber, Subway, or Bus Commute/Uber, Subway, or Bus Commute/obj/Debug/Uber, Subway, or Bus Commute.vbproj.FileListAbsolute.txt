@@ -1,0 +1,26 @@
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\bin\Debug\Uber, Subway, or Bus Commute.exe.config
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\bin\Debug\Uber, Subway, or Bus Commute.exe
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\bin\Debug\Uber, Subway, or Bus Commute.pdb
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\bin\Debug\Uber, Subway, or Bus Commute.xml
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber__Subway__or_Bus_Commute.frmTypeOfCommute.resources
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber__Subway__or_Bus_Commute.Resources.resources
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber__Subway__or_Bus_Commute.SplashScreen.resources
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.exe
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.xml
+E:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.pdb
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\bin\Debug\Uber, Subway, or Bus Commute.exe.config
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\bin\Debug\Uber, Subway, or Bus Commute.exe
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\bin\Debug\Uber, Subway, or Bus Commute.pdb
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\bin\Debug\Uber, Subway, or Bus Commute.xml
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.vbprojAssemblyReference.cache
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber__Subway__or_Bus_Commute.frmTypeOfCommute.resources
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber__Subway__or_Bus_Commute.Resources.resources
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber__Subway__or_Bus_Commute.SplashScreen.resources
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.vbproj.GenerateResource.cache
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.vbproj.CoreCompileInputs.cache
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.exe
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.xml
+D:\VisualBasic\Chapter 7\Uber, Subway, or Bus Commute\Uber, Subway, or Bus Commute\obj\Debug\Uber, Subway, or Bus Commute.pdb

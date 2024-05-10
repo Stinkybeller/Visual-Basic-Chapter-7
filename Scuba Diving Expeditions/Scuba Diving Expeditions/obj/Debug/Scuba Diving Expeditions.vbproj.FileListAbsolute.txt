@@ -1,0 +1,13 @@
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\bin\Debug\Scuba Diving Expeditions.exe.config
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\bin\Debug\Scuba Diving Expeditions.exe
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\bin\Debug\Scuba Diving Expeditions.pdb
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\bin\Debug\Scuba Diving Expeditions.xml
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\obj\Debug\Scuba Diving Expeditions.vbprojAssemblyReference.cache
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\obj\Debug\Scuba_Diving_Expeditions.frmScuba.resources
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\obj\Debug\Scuba_Diving_Expeditions.Resources.resources
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\obj\Debug\Scuba_Diving_Expeditions.SplashScuba.resources
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\obj\Debug\Scuba Diving Expeditions.vbproj.GenerateResource.cache
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\obj\Debug\Scuba Diving Expeditions.vbproj.CoreCompileInputs.cache
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\obj\Debug\Scuba Diving Expeditions.exe
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\obj\Debug\Scuba Diving Expeditions.xml
+E:\VisualBasic\Chapter 7\Scuba Diving Expeditions\Scuba Diving Expeditions\obj\Debug\Scuba Diving Expeditions.pdb
