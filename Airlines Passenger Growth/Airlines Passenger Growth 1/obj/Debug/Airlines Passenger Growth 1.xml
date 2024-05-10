@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Airlines Passenger Growth 1
+</name>
+</assembly>
+<members>
+<member name="T:Airlines_Passenger_Growth_1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Airlines_Passenger_Growth_1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Airlines_Passenger_Growth_1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Airlines_Passenger_Growth_1.My.Resources.Resources._360_F_271782927_keMVFo9PnBwrMEmbiUGKRcDT2rzf85dj">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Airlines_Passenger_Growth_1.My.Resources.Resources.aircraft_airplane_airline_logo_label_journey_air_vector_21476119">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Airlines_Passenger_Growth_1.My.Resources.Resources.TAL_beond_interior_BEOND1023_a16f49a4854743ec813acce764106924">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
